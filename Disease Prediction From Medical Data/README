@@ -1,0 +1,20 @@
+# Disease Prediction from Medical Data
+
+## Project Overview
+This project builds a simple machine learning model to predict the presence of a disease based on patient medical data.
+
+## Dataset
+The dataset contains medical attributes such as age, blood pressure, cholesterol, etc., and a target label indicating disease presence (1) or absence (0).
+
+## Requirements
+- Python 3.x
+- scikit-learn
+- pandas
+- numpy
+
+## Setup Instructions
+1. Clone the repository
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
