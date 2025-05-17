@@ -1,0 +1,17 @@
+
+---
+
+### 📦 `requirements.txt`
+
+```txt
+numpy
+pandas
+librosa
+scikit-learn
+matplotlib
+seaborn
+joblib
+soundfile
+tqdm
+tensorflow        # if using deep learning models (optional)
+torch             # optional if using PyTorch
